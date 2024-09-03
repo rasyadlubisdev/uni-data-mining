@@ -1,0 +1,408 @@
+[
+    {
+        "Movie Name": "1. The Shawshank Redemption",
+        "Movie Release": "1994",
+        "Movie Duration": "2h 22m",
+        "Age Rating": "R",
+        "Film Rating": "9.3"
+    },
+    {
+        "Movie Name": "2. The Godfather",
+        "Movie Release": "1972",
+        "Movie Duration": "2h 55m",
+        "Age Rating": "R",
+        "Film Rating": "9.2"
+    },
+    {
+        "Movie Name": "3. The Dark Knight",
+        "Movie Release": "2008",
+        "Movie Duration": "2h 32m",
+        "Age Rating": "PG-13",
+        "Film Rating": "9.0"
+    },
+    {
+        "Movie Name": "4. The Godfather Part II",
+        "Movie Release": "1974",
+        "Movie Duration": "3h 22m",
+        "Age Rating": "R",
+        "Film Rating": "9.0"
+    },
+    {
+        "Movie Name": "5. 12 Angry Men",
+        "Movie Release": "1957",
+        "Movie Duration": "1h 36m",
+        "Age Rating": "Approved",
+        "Film Rating": "9.0"
+    },
+    {
+        "Movie Name": "6. Schindler's List",
+        "Movie Release": "1993",
+        "Movie Duration": "3h 15m",
+        "Age Rating": "R",
+        "Film Rating": "9.0"
+    },
+    {
+        "Movie Name": "7. The Lord of the Rings: The Return of the King",
+        "Movie Release": "2003",
+        "Movie Duration": "3h 21m",
+        "Age Rating": "PG-13",
+        "Film Rating": "9.0"
+    },
+    {
+        "Movie Name": "8. Pulp Fiction",
+        "Movie Release": "1994",
+        "Movie Duration": "2h 34m",
+        "Age Rating": "R",
+        "Film Rating": "8.9"
+    },
+    {
+        "Movie Name": "9. The Lord of the Rings: The Fellowship of the Ring",
+        "Movie Release": "2001",
+        "Movie Duration": "2h 58m",
+        "Age Rating": "PG-13",
+        "Film Rating": "8.9"
+    },
+    {
+        "Movie Name": "10. The Good, the Bad and the Ugly",
+        "Movie Release": "1966",
+        "Movie Duration": "2h 58m",
+        "Age Rating": "R",
+        "Film Rating": "8.8"
+    },
+    {
+        "Movie Name": "11. Forrest Gump",
+        "Movie Release": "1994",
+        "Movie Duration": "2h 22m",
+        "Age Rating": "PG-13",
+        "Film Rating": "8.8"
+    },
+    {
+        "Movie Name": "12. The Lord of the Rings: The Two Towers",
+        "Movie Release": "2002",
+        "Movie Duration": "2h 59m",
+        "Age Rating": "PG-13",
+        "Film Rating": "8.8"
+    },
+    {
+        "Movie Name": "13. Fight Club",
+        "Movie Release": "1999",
+        "Movie Duration": "2h 19m",
+        "Age Rating": "R",
+        "Film Rating": "8.8"
+    },
+    {
+        "Movie Name": "14. Inception",
+        "Movie Release": "2010",
+        "Movie Duration": "2h 28m",
+        "Age Rating": "PG-13",
+        "Film Rating": "8.8"
+    },
+    {
+        "Movie Name": "15. Star Wars: Episode V - The Empire Strikes Back",
+        "Movie Release": "1980",
+        "Movie Duration": "2h 4m",
+        "Age Rating": "PG",
+        "Film Rating": "8.7"
+    },
+    {
+        "Movie Name": "16. The Matrix",
+        "Movie Release": "1999",
+        "Movie Duration": "2h 16m",
+        "Age Rating": "R",
+        "Film Rating": "8.7"
+    },
+    {
+        "Movie Name": "17. Goodfellas",
+        "Movie Release": "1990",
+        "Movie Duration": "2h 25m",
+        "Age Rating": "R",
+        "Film Rating": "8.7"
+    },
+    {
+        "Movie Name": "18. One Flew Over the Cuckoo's Nest",
+        "Movie Release": "1975",
+        "Movie Duration": "2h 13m",
+        "Age Rating": "R",
+        "Film Rating": "8.7"
+    },
+    {
+        "Movie Name": "19. Interstellar",
+        "Movie Release": "2014",
+        "Movie Duration": "2h 49m",
+        "Age Rating": "PG-13",
+        "Film Rating": "8.7"
+    },
+    {
+        "Movie Name": "20. Se7en",
+        "Movie Release": "1995",
+        "Movie Duration": "2h 7m",
+        "Age Rating": "R",
+        "Film Rating": "8.6"
+    },
+    {
+        "Movie Name": "21. It's a Wonderful Life",
+        "Movie Release": "1946",
+        "Movie Duration": "2h 10m",
+        "Age Rating": "PG",
+        "Film Rating": "8.6"
+    },
+    {
+        "Movie Name": "22. Seven Samurai",
+        "Movie Release": "1954",
+        "Movie Duration": "3h 27m",
+        "Age Rating": "Not Rated",
+        "Film Rating": "8.6"
+    },
+    {
+        "Movie Name": "23. The Silence of the Lambs",
+        "Movie Release": "1991",
+        "Movie Duration": "1h 58m",
+        "Age Rating": "R",
+        "Film Rating": "8.6"
+    },
+    {
+        "Movie Name": "24. Saving Private Ryan",
+        "Movie Release": "1998",
+        "Movie Duration": "2h 49m",
+        "Age Rating": "R",
+        "Film Rating": "8.6"
+    },
+    {
+        "Movie Name": "25. City of God",
+        "Movie Release": "2002",
+        "Movie Duration": "2h 10m",
+        "Age Rating": "R",
+        "Film Rating": "8.6"
+    },
+    {
+        "Movie Name": "26. Life Is Beautiful",
+        "Movie Release": "1997",
+        "Movie Duration": "1h 56m",
+        "Age Rating": "PG-13",
+        "Film Rating": "8.6"
+    },
+    {
+        "Movie Name": "27. The Green Mile",
+        "Movie Release": "1999",
+        "Movie Duration": "3h 9m",
+        "Age Rating": "R",
+        "Film Rating": "8.6"
+    },
+    {
+        "Movie Name": "28. Terminator 2: Judgment Day",
+        "Movie Release": "1991",
+        "Movie Duration": "2h 17m",
+        "Age Rating": "R",
+        "Film Rating": "8.6"
+    },
+    {
+        "Movie Name": "29. Star Wars: Episode IV - A New Hope",
+        "Movie Release": "1977",
+        "Movie Duration": "2h 1m",
+        "Age Rating": "PG",
+        "Film Rating": "8.6"
+    },
+    {
+        "Movie Name": "30. Back to the Future",
+        "Movie Release": "1985",
+        "Movie Duration": "1h 56m",
+        "Age Rating": "PG",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "31. Spirited Away",
+        "Movie Release": "2001",
+        "Movie Duration": "2h 5m",
+        "Age Rating": "PG",
+        "Film Rating": "8.6"
+    },
+    {
+        "Movie Name": "32. The Pianist",
+        "Movie Release": "2002",
+        "Movie Duration": "2h 30m",
+        "Age Rating": "R",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "33. Parasite",
+        "Movie Release": "2019",
+        "Movie Duration": "2h 12m",
+        "Age Rating": "R",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "34. Psycho",
+        "Movie Release": "1960",
+        "Movie Duration": "1h 49m",
+        "Age Rating": "R",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "35. Gladiator",
+        "Movie Release": "2000",
+        "Movie Duration": "2h 35m",
+        "Age Rating": "R",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "36. The Lion King",
+        "Movie Release": "1994",
+        "Movie Duration": "1h 28m",
+        "Age Rating": "G",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "37. Spider-Man: Across the Spider-Verse",
+        "Movie Release": "2023",
+        "Movie Duration": "2h 20m",
+        "Age Rating": "PG",
+        "Film Rating": "8.6"
+    },
+    {
+        "Movie Name": "38. The Departed",
+        "Movie Release": "2006",
+        "Movie Duration": "2h 31m",
+        "Age Rating": "R",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "39. Whiplash",
+        "Movie Release": "2014",
+        "Movie Duration": "1h 46m",
+        "Age Rating": "R",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "40. American History X",
+        "Movie Release": "1998",
+        "Movie Duration": "1h 59m",
+        "Age Rating": "R",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "41. L\u00e9on: The Professional",
+        "Movie Release": "1994",
+        "Movie Duration": "1h 50m",
+        "Age Rating": "R",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "42. The Prestige",
+        "Movie Release": "2006",
+        "Movie Duration": "2h 10m",
+        "Age Rating": "PG-13",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "43. Grave of the Fireflies",
+        "Movie Release": "1988",
+        "Movie Duration": "1h 28m",
+        "Age Rating": "Not Rated",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "44. Harakiri",
+        "Movie Release": "1962",
+        "Movie Duration": "2h 13m",
+        "Age Rating": "Not Rated",
+        "Film Rating": "8.6"
+    },
+    {
+        "Movie Name": "45. Dune: Part Two",
+        "Movie Release": "2024",
+        "Movie Duration": "2h 46m",
+        "Age Rating": "PG-13",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "46. The Usual Suspects",
+        "Movie Release": "1995",
+        "Movie Duration": "1h 46m",
+        "Age Rating": "R",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "47. Casablanca",
+        "Movie Release": "1942",
+        "Movie Duration": "1h 42m",
+        "Age Rating": "PG",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "48. The Intouchables",
+        "Movie Release": "2011",
+        "Movie Duration": "1h 52m",
+        "Age Rating": "R",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "49. Cinema Paradiso",
+        "Movie Release": "1988",
+        "Movie Duration": "2h 54m",
+        "Age Rating": "PG",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "50. Modern Times",
+        "Movie Release": "1936",
+        "Movie Duration": "1h 27m",
+        "Age Rating": "G",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "51. Alien",
+        "Movie Release": "1979",
+        "Movie Duration": "1h 57m",
+        "Age Rating": "R",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "52. Rear Window",
+        "Movie Release": "1954",
+        "Movie Duration": "1h 52m",
+        "Age Rating": "PG",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "53. Once Upon a Time in the West",
+        "Movie Release": "1968",
+        "Movie Duration": "2h 46m",
+        "Age Rating": "PG-13",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "54. City Lights",
+        "Movie Release": "1931",
+        "Movie Duration": "1h 27m",
+        "Age Rating": "G",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "55. Django Unchained",
+        "Movie Release": "2012",
+        "Movie Duration": "2h 45m",
+        "Age Rating": "R",
+        "Film Rating": "8.5"
+    },
+    {
+        "Movie Name": "56. Apocalypse Now",
+        "Movie Release": "1979",
+        "Movie Duration": "2h 27m",
+        "Age Rating": "R",
+        "Film Rating": "8.4"
+    },
+    {
+        "Movie Name": "57. Memento",
+        "Movie Release": "2000",
+        "Movie Duration": "1h 53m",
+        "Age Rating": "R",
+        "Film Rating": "8.4"
+    },
+    {
+        "Movie Name": "58. WALL\u00b7E",
+        "Movie Release": "2008",
+        "Movie Duration": "1h 38m",
+        "Age Rating": "G",
+        "Film Rating": "8.4"
+    }
+]

@@ -22,7 +22,7 @@ if len(age_ratings) == 1:
 for i, age_rating in enumerate(age_ratings):
     top_movies = grouped[grouped['AGE RATING'] == age_rating]
     axes[i].barh(top_movies['TV SHOW NAME'], top_movies['TV SHOW RATING'], color='orange')
-    axes[i].set_title(f'Top 5 Movies (AGE RATING: {age_rating})')
+    axes[i].set_title(f'Top 5 TVShows (AGE RATING: {age_rating})')
     axes[i].invert_yaxis()
     axes[i].set_xlabel('TV SHOW RATING')
 
